@@ -1,0 +1,15 @@
+= Bitbucket scripts
+
+various scripts for working with a bitbucket server
+
+== Installation
+
+```
+$ pipenv install
+```
+
+== Usage
+
+```
+$ pipenv run python3 count_repos.py
+```
